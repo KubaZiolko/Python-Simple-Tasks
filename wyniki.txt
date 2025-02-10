@@ -1,0 +1,2 @@
+Liczba znaków '#': 10
+Liczba samogłosek: 188
